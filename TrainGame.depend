@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1652724217 source:d:\Документы\Мои проекты\traingame\src\main.cpp
+	"renderer.h"
+	"painter.h"
+
+1652718547 d:\Документы\Мои проекты\traingame\src\renderer.h
+	<gl/gl.h>
+	"intro.h"
+	"menu.h"
+	"game\game.h"
+	"texture.h"
+
+1652718582 source:d:\Документы\Мои проекты\traingame\src\renderer.cpp
+	"main.h"
+	"renderer.h"
+	"painter.h"
+
+1652722532 d:\Документы\Мои проекты\traingame\src\main.h
+	<windows.h>
+
+1652125344 d:\Документы\Мои проекты\traingame\src\libs\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1652376242 source:d:\Документы\Мои проекты\traingame\src\intro.cpp
+	<iostream>
+	<windows.h>
+	"main.h"
+	"intro.h"
+
+1652376386 d:\Документы\Мои проекты\traingame\src\intro.h
+	"painter.h"
+	"texture.h"
+
+1652197434 d:\Документы\Мои проекты\traingame\src\painter.h
+	<GL/gl.h>
+
+1652197302 source:d:\Документы\Мои проекты\traingame\src\painter.cpp
+	"painter.h"
+	"libs/stb_image.h"
+
+1652377227 d:\Документы\Мои проекты\traingame\src\texture.h
+
+1652377207 source:d:\Документы\Мои проекты\traingame\src\texture.cpp
+	"painter.h"
+	"texture.h"
+
+1652437548 d:\Документы\Мои проекты\traingame\src\menu.h
+	"painter.h"
+	"texture.h"
+
+1652718269 source:d:\Документы\Мои проекты\traingame\src\menu.cpp
+	"menu.h"
+	<iostream>
+	<windows.h>
+	"main.h"
+	"menu.h"
+
+1652723601 source:d:\Документы\Мои проекты\traingame\src\game\game.cpp
+	<iostream>
+	<windows.h>
+	<shlobj.h>
+	<knownfolders.h>
+	"main.h"
+	"game\game.h"
+
+1652722532 d:\Документы\Мои проекты\traingame\src\\main.h
+	<windows.h>
+
+1652722037 d:\Документы\Мои проекты\traingame\src\game\game.h
+	"painter.h"
+	"texture.h"
+
+1652197434 d:\Документы\Мои проекты\traingame\src\\painter.h
+	<GL/gl.h>
+
+1652377227 d:\Документы\Мои проекты\traingame\src\\texture.h
+
+1652722037 d:\Документы\Мои проекты\traingame\src\\game\game.h
+	"painter.h"
+	"texture.h"
+

@@ -1,0 +1,6 @@
+16 May 2022
+   released version 1.0.0 of TrainGame
+
+     Change log:
+        -Added: Game Menu(Main Page, without sprites and text)
+
